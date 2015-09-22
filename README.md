@@ -1,2 +1,3 @@
-# Fraud-As-a-Service-
-Fraud Detection as a service
+# Getting started with Play (Scala)
+
+This project demonstrate how to create a simple CRUD application with Play.

@@ -1,7 +1,7 @@
 
 // @GENERATOR:play-routes-compiler
-// @SOURCE:/Users/tumkur/Downloads/activator-dist-1.3.6/PROJECTNAME/conf/routes
-// @DATE:Sun Sep 20 21:46:51 PDT 2015
+// @SOURCE:/Users/tumkur/Desktop/Fraud-As-a-Service/conf/routes
+// @DATE:Tue Sep 22 15:19:37 PDT 2015
 
 import play.api.routing.JavaScriptReverseRoute
 import play.api.mvc.{ QueryStringBindable, PathBindable, Call, JavascriptLiteral }

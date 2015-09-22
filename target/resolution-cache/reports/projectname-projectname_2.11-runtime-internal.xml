@@ -7,7 +7,7 @@
 		revision="1.0-SNAPSHOT"
 		conf="runtime-internal"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
-		date="20150920223330"/>
+		date="20150922151815"/>
 	<dependencies>
 		<module organisation="com.h2database" name="h2">
 			<revision name="1.4.177" status="release" pubdate="20140412001049" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.h2database.com" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="51">
@@ -134,7 +134,7 @@
 		<module organisation="io.netty" name="netty">
 			<revision name="3.10.4.Final" status="release" pubdate="20150630062840" resolver="public" artresolver="public" homepage="http://netty.io/" downloaded="true" searched="true" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="42">
 				<license name="Apache License, Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0"/>
-				<metadata-artifact status="successful" details="" size="28829" time="132" location="/Users/tumkur/.ivy2/cache/io.netty/netty/ivy-3.10.4.Final.xml" searched="true" original-local-location="/Users/tumkur/.ivy2/cache/io.netty/netty/ivy-3.10.4.Final.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/io/netty/netty/3.10.4.Final/netty-3.10.4.Final.pom"/>
+				<metadata-artifact status="successful" details="" size="28829" time="344" location="/Users/tumkur/.ivy2/cache/io.netty/netty/ivy-3.10.4.Final.xml" searched="true" original-local-location="/Users/tumkur/.ivy2/cache/io.netty/netty/ivy-3.10.4.Final.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/io/netty/netty/3.10.4.Final/netty-3.10.4.Final.pom"/>
 				<caller organisation="com.typesafe.play" name="play-netty-server_2.11" conf="default, compile, runtime, master" rev="3.10.4.Final" rev-constraint-default="3.10.4.Final" rev-constraint-dynamic="3.10.4.Final" callerrev="2.4.3"/>
 				<caller organisation="com.typesafe.netty" name="netty-http-pipelining" conf="compile, runtime" rev="3.10.1.Final" rev-constraint-default="3.10.1.Final" rev-constraint-dynamic="3.10.1.Final" callerrev="1.1.4"/>
 				<artifacts>

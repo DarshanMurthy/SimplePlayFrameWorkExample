@@ -1,4 +1,4 @@
-[0m[[0minfo[0m] [0mUpdating {file:/Users/tumkur/Downloads/activator-dist-1.3.6/PROJECTNAME/}root...[0m
+[0m[[0minfo[0m] [0mUpdating {file:/Users/tumkur/Desktop/Fraud-As-a-Service/}root...[0m
 [0m[[0mdebug[0m] [0m:: resolving dependencies :: projectname#projectname_2.11;1.0-SNAPSHOT[0m
 [0m[[0mdebug[0m] [0m	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool][0m
 [0m[[0mdebug[0m] [0m	validate = true[0m
@@ -7,7 +7,7 @@
 [0m[[0mdebug[0m] [0m== resolving dependencies for projectname#projectname_2.11;1.0-SNAPSHOT [compile][0m
 [0m[[0mdebug[0m] [0m== resolving dependencies projectname#projectname_2.11;1.0-SNAPSHOT->org.scala-lang#scala-library;2.11.6 [compile->default(compile)][0m
 [0m[[0minfo[0m] [0mResolving org.scala-lang#scala-library;2.11.6 ...[0m
-[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2785278[0m
+[0m[[0mdebug[0m] [0msbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@59189bba[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.scala-lang#scala-library;2.11.6[0m
 [0m[[0mdebug[0m] [0m	found org.scala-lang#scala-library;2.11.6 in sbt-chain[0m
 [0m[[0mdebug[0m] [0m	[2.11.6] org.scala-lang#scala-library;2.11.6[0m
@@ -605,7 +605,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/io/netty/netty/3.10.4.Final/netty-3.10.4.Final.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/io/netty/netty/3.10.4.Final/netty-3.10.4.Final.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/io/netty/netty/3.10.4.Final/netty-3.10.4.Final.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] io.netty#netty;3.10.4.Final!netty.pom(pom.original) (132ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] io.netty#netty;3.10.4.Final!netty.pom(pom.original) (344ms)[0m
 [0m[[0minfo[0m] [0mResolving org.sonatype.oss#oss-parent;9 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.sonatype.oss#oss-parent;9 {}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.sonatype.oss#oss-parent;9[0m
@@ -2094,7 +2094,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/httpcomponents/httpclient/4.3.4/httpclient-4.3.4.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/httpcomponents/httpclient/4.3.4/httpclient-4.3.4.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/apache/httpcomponents/httpclient/4.3.4/httpclient-4.3.4.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.httpcomponents#httpclient;4.3.4!httpclient.pom(pom.original) (163ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.httpcomponents#httpclient;4.3.4!httpclient.pom(pom.original) (305ms)[0m
 [0m[[0minfo[0m] [0mResolving org.apache.httpcomponents#httpcomponents-client;4.3.4 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.apache.httpcomponents#httpcomponents-client;4.3.4 {}[0m
 [0m[[0minfo[0m] [0mResolving org.apache.httpcomponents#httpcomponents-client;4.3.4 ...[0m
@@ -2112,7 +2112,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.3.4/httpcomponents-client-4.3.4.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.3.4/httpcomponents-client-4.3.4.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.3.4/httpcomponents-client-4.3.4.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.httpcomponents#httpcomponents-client;4.3.4!httpcomponents-client.pom(pom.original) (112ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.httpcomponents#httpcomponents-client;4.3.4!httpcomponents-client.pom(pom.original) (129ms)[0m
 [0m[[0minfo[0m] [0mResolving org.apache.httpcomponents#project;7 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.apache.httpcomponents#project;7 {}[0m
 [0m[[0minfo[0m] [0mResolving org.apache.httpcomponents#project;7 ...[0m
@@ -2130,7 +2130,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/httpcomponents/project/7/project-7.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/httpcomponents/project/7/project-7.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/apache/httpcomponents/project/7/project-7.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.httpcomponents#project;7!project.pom(pom.original) (111ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.httpcomponents#project;7!project.pom(pom.original) (150ms)[0m
 [0m[[0minfo[0m] [0mResolving org.apache#apache;13 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.apache#apache;13 {}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.apache#apache;13[0m
@@ -2332,7 +2332,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.httpcomponents#httpcore;4.3.2!httpcore.pom(pom.original) (103ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.httpcomponents#httpcore;4.3.2!httpcore.pom(pom.original) (57ms)[0m
 [0m[[0minfo[0m] [0mResolving org.apache.httpcomponents#httpcomponents-core;4.3.2 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.apache.httpcomponents#httpcomponents-core;4.3.2 {}[0m
 [0m[[0minfo[0m] [0mResolving org.apache.httpcomponents#httpcomponents-core;4.3.2 ...[0m
@@ -2350,7 +2350,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcomponents-core/4.3.2/httpcomponents-core-4.3.2.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcomponents-core/4.3.2/httpcomponents-core-4.3.2.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcomponents-core/4.3.2/httpcomponents-core-4.3.2.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.httpcomponents#httpcomponents-core;4.3.2!httpcomponents-core.pom(pom.original) (96ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.httpcomponents#httpcomponents-core;4.3.2!httpcomponents-core.pom(pom.original) (72ms)[0m
 [0m[[0minfo[0m] [0mResolving org.apache.httpcomponents#project;7 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.apache.httpcomponents#project;7 {}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.apache.httpcomponents#project;7[0m
@@ -2784,7 +2784,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] commons-logging#commons-logging;1.1.3!commons-logging.pom(pom.original) (110ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] commons-logging#commons-logging;1.1.3!commons-logging.pom(pom.original) (120ms)[0m
 [0m[[0minfo[0m] [0mResolving org.apache.commons#commons-parent;28 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.apache.commons#commons-parent;28 {}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.apache.commons#commons-parent;28[0m
@@ -2974,7 +2974,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/commons/commons-exec/1.1/commons-exec-1.1.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/org/apache/commons/commons-exec/1.1/commons-exec-1.1.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/org/apache/commons/commons-exec/1.1/commons-exec-1.1.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.commons#commons-exec;1.1!commons-exec.pom(pom.original) (161ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] org.apache.commons#commons-exec;1.1!commons-exec.pom(pom.original) (99ms)[0m
 [0m[[0minfo[0m] [0mResolving org.apache.commons#commons-parent;17 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.apache.commons#commons-parent;17 {}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.apache.commons#commons-parent;17[0m
@@ -3181,7 +3181,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/xalan/xalan/2.7.1/xalan-2.7.1.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/xalan/xalan/2.7.1/xalan-2.7.1.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/xalan/xalan/2.7.1/xalan-2.7.1.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] xalan#xalan;2.7.1!xalan.pom(pom.original) (99ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] xalan#xalan;2.7.1!xalan.pom(pom.original) (77ms)[0m
 [0m[[0minfo[0m] [0mResolving org.apache#apache;4 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.apache#apache;4 {}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.apache#apache;4[0m
@@ -3340,7 +3340,7 @@
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/xalan/serializer/2.7.1/serializer-2.7.1.pom[0m
 [0m[[0mdebug[0m] [0m	public: downloading https://repo1.maven.org/maven2/xalan/serializer/2.7.1/serializer-2.7.1.pom.sha1[0m
 [0m[[0mdebug[0m] [0msha1 OK for https://repo1.maven.org/maven2/xalan/serializer/2.7.1/serializer-2.7.1.pom[0m
-[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] xalan#serializer;2.7.1!serializer.pom(pom.original) (91ms)[0m
+[0m[[0mdebug[0m] [0m	[SUCCESSFUL ] xalan#serializer;2.7.1!serializer.pom(pom.original) (391ms)[0m
 [0m[[0minfo[0m] [0mResolving org.apache#apache;4 ...[0m
 [0m[[0mdebug[0m] [0msbt-chain: Checking cache for: dependency: org.apache#apache;4 {}[0m
 [0m[[0mdebug[0m] [0msbt-chain: module revision found in cache: org.apache#apache;4[0m
@@ -7329,19 +7329,19 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.3!scala-xml_2.11.jar(bundle)[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.3!scala-parser-combinators_2.11.jar(bundle)[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] jline#jline;2.12.1!jline.jar[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 14885ms :: artifacts dl 83ms[0m
-[0m[[0mdebug[0m] [0m	report for projectname#projectname_2.11;1.0-SNAPSHOT compile produced in /Users/tumkur/Downloads/activator-dist-1.3.6/PROJECTNAME/target/resolution-cache/reports/projectname-projectname_2.11-compile.xml[0m
-[0m[[0mdebug[0m] [0m	report for projectname#projectname_2.11;1.0-SNAPSHOT runtime produced in /Users/tumkur/Downloads/activator-dist-1.3.6/PROJECTNAME/target/resolution-cache/reports/projectname-projectname_2.11-runtime.xml[0m
-[0m[[0mdebug[0m] [0m	report for projectname#projectname_2.11;1.0-SNAPSHOT test produced in /Users/tumkur/Downloads/activator-dist-1.3.6/PROJECTNAME/target/resolution-cache/reports/projectname-projectname_2.11-test.xml[0m
-[0m[[0mdebug[0m] [0m	report for projectname#projectname_2.11;1.0-SNAPSHOT provided produced in /Users/tumkur/Downloads/activator-dist-1.3.6/PROJECTNAME/target/resolution-cache/reports/projectname-projectname_2.11-provided.xml[0m
-[0m[[0mdebug[0m] [0m	report for projectname#projectname_2.11;1.0-SNAPSHOT optional produced in /Users/tumkur/Downloads/activator-dist-1.3.6/PROJECTNAME/target/resolution-cache/reports/projectname-projectname_2.11-optional.xml[0m
-[0m[[0mdebug[0m] [0m	report for projectname#projectname_2.11;1.0-SNAPSHOT compile-internal produced in /Users/tumkur/Downloads/activator-dist-1.3.6/PROJECTNAME/target/resolution-cache/reports/projectname-projectname_2.11-compile-internal.xml[0m
-[0m[[0mdebug[0m] [0m	report for projectname#projectname_2.11;1.0-SNAPSHOT runtime-internal produced in /Users/tumkur/Downloads/activator-dist-1.3.6/PROJECTNAME/target/resolution-cache/reports/projectname-projectname_2.11-runtime-internal.xml[0m
-[0m[[0mdebug[0m] [0m	report for projectname#projectname_2.11;1.0-SNAPSHOT test-internal produced in /Users/tumkur/Downloads/activator-dist-1.3.6/PROJECTNAME/target/resolution-cache/reports/projectname-projectname_2.11-test-internal.xml[0m
-[0m[[0mdebug[0m] [0m	report for projectname#projectname_2.11;1.0-SNAPSHOT plugin produced in /Users/tumkur/Downloads/activator-dist-1.3.6/PROJECTNAME/target/resolution-cache/reports/projectname-projectname_2.11-plugin.xml[0m
-[0m[[0mdebug[0m] [0m	report for projectname#projectname_2.11;1.0-SNAPSHOT sources produced in /Users/tumkur/Downloads/activator-dist-1.3.6/PROJECTNAME/target/resolution-cache/reports/projectname-projectname_2.11-sources.xml[0m
-[0m[[0mdebug[0m] [0m	report for projectname#projectname_2.11;1.0-SNAPSHOT docs produced in /Users/tumkur/Downloads/activator-dist-1.3.6/PROJECTNAME/target/resolution-cache/reports/projectname-projectname_2.11-docs.xml[0m
-[0m[[0mdebug[0m] [0m	report for projectname#projectname_2.11;1.0-SNAPSHOT pom produced in /Users/tumkur/Downloads/activator-dist-1.3.6/PROJECTNAME/target/resolution-cache/reports/projectname-projectname_2.11-pom.xml[0m
-[0m[[0mdebug[0m] [0m	report for projectname#projectname_2.11;1.0-SNAPSHOT scala-tool produced in /Users/tumkur/Downloads/activator-dist-1.3.6/PROJECTNAME/target/resolution-cache/reports/projectname-projectname_2.11-scala-tool.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (14885ms resolve - 83ms download)[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 14495ms :: artifacts dl 66ms[0m
+[0m[[0mdebug[0m] [0m	report for projectname#projectname_2.11;1.0-SNAPSHOT compile produced in /Users/tumkur/Desktop/Fraud-As-a-Service/target/resolution-cache/reports/projectname-projectname_2.11-compile.xml[0m
+[0m[[0mdebug[0m] [0m	report for projectname#projectname_2.11;1.0-SNAPSHOT runtime produced in /Users/tumkur/Desktop/Fraud-As-a-Service/target/resolution-cache/reports/projectname-projectname_2.11-runtime.xml[0m
+[0m[[0mdebug[0m] [0m	report for projectname#projectname_2.11;1.0-SNAPSHOT test produced in /Users/tumkur/Desktop/Fraud-As-a-Service/target/resolution-cache/reports/projectname-projectname_2.11-test.xml[0m
+[0m[[0mdebug[0m] [0m	report for projectname#projectname_2.11;1.0-SNAPSHOT provided produced in /Users/tumkur/Desktop/Fraud-As-a-Service/target/resolution-cache/reports/projectname-projectname_2.11-provided.xml[0m
+[0m[[0mdebug[0m] [0m	report for projectname#projectname_2.11;1.0-SNAPSHOT optional produced in /Users/tumkur/Desktop/Fraud-As-a-Service/target/resolution-cache/reports/projectname-projectname_2.11-optional.xml[0m
+[0m[[0mdebug[0m] [0m	report for projectname#projectname_2.11;1.0-SNAPSHOT compile-internal produced in /Users/tumkur/Desktop/Fraud-As-a-Service/target/resolution-cache/reports/projectname-projectname_2.11-compile-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for projectname#projectname_2.11;1.0-SNAPSHOT runtime-internal produced in /Users/tumkur/Desktop/Fraud-As-a-Service/target/resolution-cache/reports/projectname-projectname_2.11-runtime-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for projectname#projectname_2.11;1.0-SNAPSHOT test-internal produced in /Users/tumkur/Desktop/Fraud-As-a-Service/target/resolution-cache/reports/projectname-projectname_2.11-test-internal.xml[0m
+[0m[[0mdebug[0m] [0m	report for projectname#projectname_2.11;1.0-SNAPSHOT plugin produced in /Users/tumkur/Desktop/Fraud-As-a-Service/target/resolution-cache/reports/projectname-projectname_2.11-plugin.xml[0m
+[0m[[0mdebug[0m] [0m	report for projectname#projectname_2.11;1.0-SNAPSHOT sources produced in /Users/tumkur/Desktop/Fraud-As-a-Service/target/resolution-cache/reports/projectname-projectname_2.11-sources.xml[0m
+[0m[[0mdebug[0m] [0m	report for projectname#projectname_2.11;1.0-SNAPSHOT docs produced in /Users/tumkur/Desktop/Fraud-As-a-Service/target/resolution-cache/reports/projectname-projectname_2.11-docs.xml[0m
+[0m[[0mdebug[0m] [0m	report for projectname#projectname_2.11;1.0-SNAPSHOT pom produced in /Users/tumkur/Desktop/Fraud-As-a-Service/target/resolution-cache/reports/projectname-projectname_2.11-pom.xml[0m
+[0m[[0mdebug[0m] [0m	report for projectname#projectname_2.11;1.0-SNAPSHOT scala-tool produced in /Users/tumkur/Desktop/Fraud-As-a-Service/target/resolution-cache/reports/projectname-projectname_2.11-scala-tool.xml[0m
+[0m[[0mdebug[0m] [0m	resolve done (14495ms resolve - 66ms download)[0m
 [0m[[0minfo[0m] [0mDone updating.[0m

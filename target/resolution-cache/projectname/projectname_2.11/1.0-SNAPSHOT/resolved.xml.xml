@@ -4,7 +4,7 @@
 		module="projectname_2.11"
 		revision="1.0-SNAPSHOT"
 		status="integration"
-		publication="20150922151815"
+		publication="20150923131142"
 	>
 		<description>
 		PROJECTNAME
@@ -27,9 +27,7 @@
 	</configurations>
 	<publications>
 		<artifact name="projectname_2.11" type="pom" ext="pom" conf="pom"/>
-		<artifact name="projectname_2.11" type="jar" ext="jar" conf="compile"/>
-		<artifact name="projectname_2.11" type="src" ext="jar" conf="sources" e:classifier="sources"/>
-		<artifact name="projectname_2.11" type="doc" ext="jar" conf="docs" e:classifier="javadoc"/>
+		<artifact name="projectname_2.11" type="jar" ext="jar" conf="optional" e:classifier="download"/>
 	</publications>
 	<dependencies>
 		<dependency org="org.scala-lang" name="scala-compiler" rev="2.11.6" conf="scala-tool->default,optional(default)"/>
@@ -41,6 +39,7 @@
 		<dependency org="com.typesafe.play" name="play-netty-server_2.11" rev="2.4.3" conf="compile->default(compile)"/>
 		<dependency org="com.typesafe.play" name="play-slick_2.11" rev="1.0.0" conf="compile->default(compile)"/>
 		<dependency org="com.typesafe.play" name="play-slick-evolutions_2.11" rev="1.0.0" conf="compile->default(compile)"/>
+		<dependency org="org.apache.spark" name="spark-core_2.11" rev="1.2.0" conf="compile->default(compile)"/>
 		<dependency org="com.h2database" name="h2" rev="1.4.177" conf="compile->default(compile)"/>
 		<dependency org="com.typesafe.play" name="play-specs2_2.11" rev="2.4.3" conf="test->default(compile)"/>
 	</dependencies>
